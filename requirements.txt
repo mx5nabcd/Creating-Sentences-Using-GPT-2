@@ -1,0 +1,6 @@
+* make conda env
+conda install pip
+
+* pip lib
+torch
+transformers
